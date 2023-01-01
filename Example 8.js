@@ -7,3 +7,4 @@ xhttp.onreadystatechange = function() {
 };
 xhttp.open("GET", "filename", true);
 xhttp.send();
+//how to make a xmlhttprequest https://www.w3schools.com/xml/xml_http.asp
